@@ -16,7 +16,7 @@
 
 ##  Contribuições
 
-![Snake animation](https://github.com/ThaisOliveira0/ThaisOliveira0/blob/output/snake.svg)
+![Snake animation](https://github.com/ThaisOliveira0/ThaisOliveira0/blob/output/github-snake.svg)
 
 ---
 
