@@ -1,5 +1,7 @@
 #  Olá! Eu sou a Thais Oliveira
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+a+Thais;Estudante+de+programação;Aprendendo+desenvolvimento+web;Sempre+aprendendo+coisas+novas" />
+</p>
 ##  Streak de commits
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ThaisOliveira0&theme=tokyonight)
