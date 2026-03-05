@@ -8,12 +8,6 @@
   <img src="https://skillicons.dev/icons?i=vue,react,ts,js,next,figma,html,css,python,git,github,nodejs,dotnet,kotlin" />
 </p>
 
----
-##  Streak de commits
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ThaisOliveira0&theme=tokyonight)
-
----
 
 ##  Contribuições
 
