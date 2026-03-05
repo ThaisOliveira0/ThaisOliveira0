@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,react,ts,js,next,figma,html,css,python,git,github,nodejs,dotnet,kotlin" />
 </p>
-
+</br>
 
 ##  Contribuições
 
