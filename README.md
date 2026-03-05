@@ -1,16 +1,22 @@
-## Hi there 👋
+#  Olá! Eu sou a Thais Oliveira
 
-<!--
-**ThaisOliveira0/ThaisOliveira0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Streak de commits
 
-Here are some ideas to get you started:
+![GitHub Streak](https://streak-stats.demolab.com/?user=ThaisOliveira0&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+##  Contribuições
+
+![Snake animation](https://github.com/ThaisOliveira0/ThaisOliveira0/blob/output/github-contribution-grid-snake.svg)
+
+---
+
